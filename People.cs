@@ -7,4 +7,8 @@ class persona
   {
     console.WriteLine("Hi mi nombre es " + Nombre);
   }
+  public void mostrarEdad()
+  {
+    console.WriteLine(" Tengo " + Edad + " años.");
+  }
 }
